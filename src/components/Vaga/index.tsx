@@ -1,5 +1,4 @@
 import { ListItem, VacancyLink, VacancyTitle } from './style'
-import styles from './Vaga.module.css'
 
 type Props = {
   children: string
